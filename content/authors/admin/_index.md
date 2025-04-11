@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Portfolio
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Muhammad Ahmad Rathore
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Muhammad Ahmad
+last_name: Rathore
 
 # Status emoji
 status:
